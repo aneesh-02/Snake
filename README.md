@@ -13,7 +13,7 @@ Use the arrow keys to move the snake around the board
 <br>The score is displayed in the top center of the screen
 
 ## Code Structure
-<br>SnakeGame.java - Main class of the game
+SnakeGame.java - Main class of the game
 <br>GameFrame.java - Contains the frame of the game
 <br>GamePanel.java - Contains the panel of the game
 <br>MyKeyAdapter.java - Contains the listener for the arrow keys
